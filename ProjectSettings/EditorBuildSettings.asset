@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PersistantScene.unity
+    guid: 7be4a01f44e48cb43bac5054227453e2
+  - enabled: 1
+    path: Assets/Scenes/Title_Screen.unity
+    guid: a7a433a4ea7b00c49bfcb7e857adc970
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 658f0b5c46a776546861c9c82bb60d1a
+  - enabled: 1
+    path: Assets/Scenes/Sala_Produccion.unity
+    guid: 708c1bab8f2c88546bbc0409a01e4578
+  - enabled: 1
+    path: Assets/Scenes/Sala_Frio.unity
+    guid: 2f573823e4e0bf84283077d9d637d379
+  - enabled: 1
+    path: Assets/Scenes/Sala_Alcantarilla.unity
+    guid: 610e2c3023a83274bbc56fa06e362936
+  - enabled: 1
+    path: Assets/Scenes/Sala_Agua.unity
+    guid: d024597eaee62094ebac2e89b666c8bf
+  - enabled: 1
+    path: Assets/Scenes/Sala_Teletransporte.unity
+    guid: ea6b1d957d745974b86703b1ac601a56
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 6ad0874d382464243bfc48ca4377e60e
+  - enabled: 0
+    path: Assets/Scenes/Scene_Localisation Test.unity
+    guid: 45774fc061a716b43a8e419c6be0081d
+  - enabled: 0
+    path: Assets/Scenes/Scene_Movement Test.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
